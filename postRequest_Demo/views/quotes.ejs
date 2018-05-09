@@ -1,0 +1,11 @@
+<h1>Thought Of The Day</h1>
+
+<% quotes.forEach(function(quote){ %>
+    <li><em><%= quote %></em></li><br>
+
+<% }); %>
+
+<form action="/addquote" method="POST">
+    <input type='text' name="tought" placeholder="Add today's tought... ">
+    <button>Add</button>
+</form>
