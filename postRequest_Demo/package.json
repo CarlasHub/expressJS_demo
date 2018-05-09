@@ -1,0 +1,19 @@
+{
+  "name": "postrequest_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlasHub/expressJS_demo.git"
+  },
+  "author": "Carla Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlasHub/expressJS_demo/issues"
+  },
+  "homepage": "https://github.com/CarlasHub/expressJS_demo#readme"
+}
